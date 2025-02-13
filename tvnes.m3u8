@@ -82,23 +82,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/ttxvn.jpg", VNews
-https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
-#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/nhandan.jpg", Nhân Dân TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://arpt.tvic.vn/live/nhandan720/chunklist_w1856690367.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/quochoi.jpg", Quốc Hội HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e8.endpoint.cdn.sctvonline.vn/hls/thquochoi/index.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://oipf0znpmnliv.vcdn.cloud/hls/quocphongvn/index.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/vovtvhd.png", VOVTV HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/anvien.png", BTV9 - An Viên TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/anvien/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Ani" group-title="🎬| Anime" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
